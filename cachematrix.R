@@ -1,5 +1,7 @@
 ## Put comments here that give an overall description of what your
 ## functions do
+  ##The combination of these two functions allows us to calculate the inverse
+  ##of a square matrix in an efficient way
 
 ## Write a short comment describing this function
   #We set the "inv" variable to be NULL. We will use this later
